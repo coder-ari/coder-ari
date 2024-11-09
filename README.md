@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a student majoring in Electrical and Electronics Engineering (EEE) at VIT, with a strong focus on embedded systems.
+# 👋 Hi, I’m a student majoring in Electrical and Electronics Engineering (EEE), with a strong focus on embedded systems.
 
 ## My Expertise Includes:
 
